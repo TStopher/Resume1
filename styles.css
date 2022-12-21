@@ -1,0 +1,30 @@
+.header-container {
+    display: flex;
+    flex-direction: column;
+    text-align:center;
+    border-style: solid;
+    margin: 0 auto;
+    width: 400px;
+    background-color: rgb(207, 205, 205);
+}
+.master-ctr {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    padding: 0;
+}
+.left-container {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    border-right: solid;
+    margin: 0 10em 0 0;
+    padding: 0 10em 0 10em;
+}
+.main-body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0 30em 0 0;
+    padding: 0;
+}
