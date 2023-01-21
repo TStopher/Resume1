@@ -28,3 +28,11 @@
     margin: 0 30em 0 0;
     padding: 0;
 }
+h2 {
+    text-decoration-line: underline;
+}
+
+.emp-ul {
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
